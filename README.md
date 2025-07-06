@@ -1,4 +1,3 @@
-! [alt text](/screen.png)
+![ camera ](/screen.png)
 
-! [alt text](/screen2.png)
-
+![ image ](/Screen2.png)
