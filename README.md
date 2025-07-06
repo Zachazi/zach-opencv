@@ -1,1 +1,4 @@
-Readme on character recognition
+[alt text](/screen.png)
+
+[alt text](/screen2.png)
+
